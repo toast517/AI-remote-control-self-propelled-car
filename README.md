@@ -11,6 +11,27 @@
 
 5.可以自動按照地上規劃的路徑來行駛
 
+## Development board: AMB82 MINI
+
+![image](https://github.com/toast517/AI-remote-control-self-propelled-car/assets/163410120/4ea3c48d-8147-492a-b614-2a875dad710c)
+
+[RTL8735B](https://www.amebaiot.com/en/amebapro2/): 32-bit Arm v8M, up to 500MHz, 768KB ROM, 512KB RAM, 16MB Flash (MCM embedded DDR2/DDR3L up to 128MB) 802.11 a/b/g/n WiFi 2.4GHz/5GHz, BLE 5.1, NN Engine 0.4 TOPS, Crypto Engine, Audo Codec, …
+
+* [Ameba Arduino](https://www.amebaiot.com/en/ameba-arduino-summary/)
+
+* [Amebapro2 AMB82-mini Arduino Example Guides](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples)
+
+* [Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/) <br>
+
+## Product Image
+
+![image](https://github.com/toast517/AI-remote-control-self-propelled-car/assets/163410120/415f1c1c-4d12-4a3f-a8d7-d8db5291195d)
+
+## Reinforcement learning for autonomous driving using RL-DQN
+
+![image](https://github.com/toast517/AI-remote-control-self-propelled-car/assets/163410120/3dd3f0e5-f3f8-4923-ae89-e5fb9d6dfc64)
+
+
 ## Code
 ```
 /*
@@ -318,12 +339,19 @@ void FRPostProcess(std::vector<FaceRecognitionResult> results)
 
 ## Demo 
 ### [遙控](https://youtu.be/w4kPHU47Nuc) <br>
-### (https://www.youtube.com/shorts/8DNJ__5eH_o) <br>
 ### (https://www.youtube.com/watch?v=lF9Uk5XS0rA) <br>
+### [玩具車自動避開障礙物](https://www.youtube.com/shorts/8DNJ__5eH_o) <br>
+
+
+玩具車自動避開障礙物
 
 https://github.com/toast517/AI-remote-control-self-propelled-car/assets/163410120/8f412978-ef1e-4212-b5ea-3354f7dc0e85
 
+利用手機遙控
+
 https://github.com/toast517/AI-remote-control-self-propelled-car/assets/163410120/f6ca249a-fbb8-44ae-8579-ad128bab4f61
+
+
 
 https://github.com/toast517/AI-remote-control-self-propelled-car/assets/163410120/54152372-8381-4643-96eb-7d7c59bfe777
 
