@@ -301,4 +301,7 @@ void FRPostProcess(std::vector<FaceRecognitionResult> results)
         char text_str[40];
         snprintf(text_str, sizeof(text_str), "Face:%s", item.name());
         OSD.drawText(CHANNELVI
-        ```
+        
+## Demo 
+### [遙控](https://youtu.be/w4kPHU47Nuc) <br>
+<p><iframe width="1280" height="591" src="https://www.youtube.com/embed/w4kPHU47Nuc" title="微處理" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
