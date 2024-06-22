@@ -1,14 +1,15 @@
 # AI remote control self-propelled car
-## Product Definition
-1.Smart Control
+## Product features
 
-2.Learning and Adaptation
+1.可以辨識眼前是否出現障礙物
 
-3.Voice and Language Control
+2.可以辨識障礙物是甚麼物體
 
-4.Automation and Scene Setting
+3.當辨識到眼前出現障礙物的時候可以自動避開 障礙物
 
-5.Smart Connectivity and Interactivity
+4.可以遠端遙控玩具車來避開障礙物
+
+5.可以自動按照地上規劃的路徑來行駛
 
 ## Code
 ```
