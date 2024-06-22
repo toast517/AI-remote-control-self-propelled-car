@@ -11,6 +11,7 @@
 5.Smart Connectivity and Interactivity
 
 ##Code
+```
 /*
 
  Example guide:
@@ -300,4 +301,4 @@ void FRPostProcess(std::vector<FaceRecognitionResult> results)
         char text_str[40];
         snprintf(text_str, sizeof(text_str), "Face:%s", item.name());
         OSD.drawText(CHANNELVI
-        
+        ```
